@@ -18,3 +18,20 @@ http://localhost:3000/placares?score_gte=5
 ###
 
 http://localhost:3000/placares?score_gt=2
+
+
+###
+
+http://localhost:3000/placares?_sort=id
+
+
+###
+
+http://localhost:3000/placares?_sort=-score
+
+###
+
+GET covid-193.p.rapidapi.com/countries
+X-Rapidapi-Key: 0d45be16eamsh4286a69ba90bfa0p17f4bajsnd8b251aad27d
+X-Rapidapi-Host: covid-193.p.rapidapi.com
+Host: covid-193.p.rapidapi.com
